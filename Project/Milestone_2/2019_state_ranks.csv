@@ -1,0 +1,51 @@
+state,state_name,Overall Rank,Healthcare,Education,Economy,Infrastructure,Opportunity,Fiscal Stability,Crime & Corrections,Natural Environment
+WA,Washington,1,4,4,3,2,19,22,15,14
+NH,New Hampshire,2,16,5,13,31,1,10,1,4
+MN,Minnesota,3,10,17,18,6,3,25,16,3
+UT,Utah,4,9,10,2,3,24,5,12,49
+VT,Vermont,5,11,8,29,28,10,19,2,7
+MD,Maryland,6,8,13,26,21,5,15,22,25
+VA,Virginia,7,18,7,25,35,9,8,9,18
+MA,Massachusetts,8,2,1,7,44,29,30,4,26
+NE,Nebraska,9,27,6,21,9,15,7,24,27
+CO,Colorado,10,12,11,1,8,28,29,29,31
+WI,Wisconsin,11,14,14,24,30,6,14,30,10
+NJ,New Jersey,12,6,2,31,34,8,49,6,13
+FL,Florida,13,29,3,9,14,38,2,31,21
+IA,Iowa,14,20,9,32,23,2,17,19,32
+ND,North Dakota,15,38,20,35,5,4,13,18,28
+ID,Idaho,16,26,33,6,29,35,11,8,15
+GA,Georgia,17,39,30,11,10,21,9,27,20
+NC,North Carolina,18,30,25,14,18,36,4,14,36
+CA,California,19,7,21,4,32,49,42,23,5
+SD,South Dakota,20,32,18,27,16,34,3,40,2
+CT,Connecticut,21,3,12,30,46,33,46,7,6
+KS,Kansas,22,33,15,36,7,16,35,32,8
+DE,Delaware,23,15,23,17,19,23,18,36,47
+HI,Hawaii,24,1,29,40,12,46,36,5,16
+NY,New York,25,13,22,33,22,47,26,10,24
+RI,Rhode Island,26,5,41,20,49,31,31,13,1
+OR,Oregon,27,17,36,5,1,43,40,38,30
+MO,Missouri,28,41,27,23,25,11,16,44,9
+MT,Montana,29,28,26,22,20,42,24,25,22
+TN,Tennessee,30,43,35,12,13,26,1,43,37
+WY,Wyoming,31,42,16,42,15,22,39,17,17
+ME,Maine,32,19,28,37,42,27,28,3,39
+MI,Michigan,33,24,37,19,41,14,27,35,29
+AZ,Arizona,34,23,40,10,11,40,33,42,33
+IL,Illinois,35,22,19,41,24,17,50,20,43
+IN,Indiana,36,40,24,28,37,12,6,34,48
+NV,Nevada,37,31,45,8,4,37,37,39,46
+TX,Texas,38,37,34,15,33,39,12,33,40
+OH,Ohio,39,35,31,38,27,7,41,28,44
+KY,Kentucky,40,44,38,39,26,20,45,11,12
+PA,Pennsylvania,41,21,32,44,43,13,38,37,38
+SC,South Carolina,42,36,43,16,36,41,20,46,34
+OK,Oklahoma,43,47,39,34,39,25,32,41,42
+AK,Alaska,44,25,47,46,40,18,48,48,45
+AR,Arkansas,45,49,42,43,47,32,21,47,19
+NM,New Mexico,46,34,49,47,17,48,47,49,23
+WV,West Virginia,47,48,44,50,50,30,34,21,41
+MS,Mississippi,48,50,46,48,45,44,44,26,11
+AL,Alabama,49,46,50,45,38,45,23,45,35
+LA,Louisiana,50,45,48,49,48,50,43,50,50
