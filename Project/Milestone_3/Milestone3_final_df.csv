@@ -1,0 +1,51 @@
+state_name,average_salary_state,hourly_rate_state,job_count_state,city,average_salary_city,hourly_rate_city
+Alabama,77743,37.38,390,No Data,77743.0,37.38
+Alaska,84755,40.75,148,No Data,84755.0,40.75
+Arizona,88333,42.47,831,Phoenix,88469.0,42.53
+Arkansas,82909,39.86,266,No Data,82909.0,39.86
+California,126682,60.9,3874,San Francisco,138170.0,66.43
+Colorado,82112,39.48,877,Denver,81990.0,39.42
+Connecticut,92237,44.34,678,No Data,92237.0,44.34
+Delaware,95563,45.94,241,No Data,95563.0,45.94
+Florida,76936,36.99,1801,No Data,76936.0,36.99
+Georgia,81997,39.42,1275,Columbus,82140.0,39.49
+Hawaii,85453,41.08,160,No Data,85453.0,41.08
+Idaho,88982,42.78,249,No Data,88982.0,42.78
+Illinois,85726,41.21,2023,Chicago,86137.0,41.41
+Indiana,79391,38.17,712,No Data,79391.0,38.17
+Iowa,78285,37.64,427,No Data,78285.0,37.64
+Kansas,78037,37.52,388,No Data,78037.0,37.52
+Kentucky,78352,37.67,396,No Data,78352.0,37.67
+Louisiana,80084,38.5,315,No Data,80084.0,38.5
+Maine,78384,37.68,196,No Data,78384.0,37.68
+Maryland,90523,43.52,1516,No Data,90523.0,43.52
+Massachusetts,94404,45.39,1684,Boston,94202.0,45.29
+Michigan,86008,41.35,872,Detroit,86286.0,41.48
+Minnesota,85967,41.33,947,Minneapolis,86134.0,41.41
+Mississippi,78315,37.65,160,No Data,78315.0,37.65
+Missouri,80712,38.8,868,Saint Louis,81195.0,39.04
+Montana,73626,35.4,197,No Data,73626.0,35.4
+Nebraska,75594,36.34,284,No Data,75594.0,36.34
+Nevada,93869,45.13,278,No Data,93869.0,45.13
+New Hampshire,86179,41.43,292,No Data,86179.0,41.43
+New Jersey,94526,45.45,1845,Jersey City,94662.0,45.51
+New Mexico,79613,38.28,311,No Data,79613.0,38.28
+New York,102130,49.1,2735,New York,102427.0,49.24
+North Carolina,83303,40.05,1788,Raleigh,83965.0,40.37
+North Dakota,76242,36.65,155,No Data,76242.0,36.65
+Ohio,87588,42.11,1164,Columbus,86664.0,41.67
+Oklahoma,77146,37.09,236,No Data,77146.0,37.09
+Oregon,101355,48.73,596,No Data,101355.0,48.73
+Pennsylvania,89722,43.14,1804,Philadelphia,90231.0,43.38
+Rhode Island,88971,42.77,180,No Data,88971.0,42.77
+South Carolina,77818,37.41,423,No Data,77818.0,37.41
+South Dakota,75861,36.47,184,No Data,75861.0,36.47
+Tennessee,83521,40.15,551,No Data,83521.0,40.15
+Texas,87577,42.1,2563,Austin,88720.0,42.65
+Utah,84087,40.43,510,No Data,84087.0,40.43
+Vermont,78398,37.69,123,No Data,78398.0,37.69
+Virginia,88512,42.55,1789,Arlington,90649.0,43.58
+Washington,119916,57.65,1222,Seattle,122139.0,58.72
+West Virginia,86216,41.45,176,No Data,86216.0,41.45
+Wisconsin,82510,39.67,679,Madison,81874.0,39.36
+Wyoming,73335,35.26,92,No Data,73335.0,35.26
